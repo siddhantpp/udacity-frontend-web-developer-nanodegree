@@ -1,0 +1,49 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li span {
+    font-weight: bold;
+}
+
+.padding-16 {
+    padding: 16px;
+}
+
+.width-300 {
+    width: 300px;
+}
+
+.border-1-solid-grey {
+    border: 1px solid grey;
+}
+
+.margin-0-0-16 {
+    margin: 0 0 16px;
+}
+
+.animal-trading-card {
+    border-radius: 8px;
+    -webkit-box-shadow: 7px 7px 5px 0 rgba(100, 100, 100, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0 rgba(100, 100, 100, 0.75);
+    box-shadow: 7px 7px 5px 0 rgba(100, 100, 100, 0.75);
+    margin: 16px auto;
+}
+
+.animal-trading-card .animal-image {
+    height: 200px;
+    margin-bottom: 16px;
+}
+
+.animal-trading-card .animal-information {
+    width: 267px;
+}
+
+.animal-trading-card .animal-information .interesting-fact {
+    font-style: italic;
+}
+
+.animal-trading-card .animal-information .description {
+    margin: 16px 0;
+}
